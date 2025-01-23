@@ -1,3 +1,15 @@
+# Google Play Store App Analysis
+
+This repository contains Python code for analyzing the Google Play Store dataset. 
+
+**Key Features:**
+
+- Data loading and initial exploration.
+- Basic data cleaning and handling of missing values.
+- Data analysis and visualization (to be added).
+
+
+**About**
 This project focuses on performing Exploratory Data Analysis (EDA) on
 the Google Play Store Apps dataset using NumPy and Pandas. The dataset
 contains information on over 10,000 Android apps, including details like
