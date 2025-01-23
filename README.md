@@ -46,3 +46,8 @@ The dataset contains information on over 10,000 Android apps, including:
     - Correcting data types (e.g., converting 'Installs' to numeric).
     - Removing duplicates.
 
+**Tools Used**
+- Numpy
+- Pandas
+- Matplotlib
+
